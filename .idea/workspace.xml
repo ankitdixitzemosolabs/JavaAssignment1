@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f690ae9f-35bd-46ba-a61f-a39cb3dab3bf" name="Changes" comment="change done for finding file">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAssigment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindFile.java" afterDir="false" />
-    </list>
+    <list default="true" id="f690ae9f-35bd-46ba-a61f-a39cb3dab3bf" name="Changes" comment="change done for finding file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +58,21 @@
       <option name="presentableId" value="Default" />
       <updated>1657729866708</updated>
     </task>
+    <task id="LOCAL-00001" summary="change done for finding file">
+      <created>1657730689122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657730689122</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change done for finding file">
+      <created>1657730785674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657730785674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
